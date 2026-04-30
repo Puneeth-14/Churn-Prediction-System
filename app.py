@@ -182,7 +182,6 @@ with col_results:
             risk_icon  = "🟢"
         # ── Result banner ────────────────────────────────────
         if prediction == 1:
-            st.balloons()
             st.markdown(f"""
             <div class="result-box result-churn">
                 <div class="result-title" style="color:#f87171">⚠️ Likely to Churn</div>
