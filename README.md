@@ -7,7 +7,7 @@ Built with **Python, Scikit-learn, and Streamlit**.
 
 ## 🚀 Live Demo
 
-*(Add your deployed link here after deployment)*
+[**](https://churn-prediction-system-y6bepctrirbu8g3hmksgyh.streamlit.app/)
 
 ---
 
